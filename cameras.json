@@ -1,0 +1,365 @@
+[
+    {
+        "rotate": true,
+        "heading": 28.05,
+        "label": "Pacific Bank 1",
+        "coords": {
+            "y": 210.07,
+            "z": 109.08,
+            "x": 257.45
+        },
+        "name": "cam1"
+    },
+    {
+        "rotate": true,
+        "heading": -140.91,
+        "label": "Pacific Bank 2",
+        "coords": {
+            "y": 221.46,
+            "z": 107.83,
+            "x": 232.86
+        },
+        "name": "cam2"
+    },
+    {
+        "rotate": true,
+        "heading": -74.87,
+        "label": "Pacific Bank 3",
+        "coords": {
+            "y": 225.52,
+            "z": 103.99,
+            "x": 252.27
+        },
+        "name": "cam3"
+    },
+    {
+        "rotate": true,
+        "heading": -168.9182,
+        "label": "Limited Ltd Grove 1",
+        "coords": {
+            "y": -1746.714,
+            "z": 31.546,
+            "x": -53.1433
+        },
+        "name": "cam4"
+    },
+    {
+        "rotate": true,
+        "heading": 79.53281,
+        "label": "Rob's Liqour Prosperity 1",
+        "coords": {
+            "y": -380.463,
+            "z": 42.363,
+            "x": -1482.9
+        },
+        "name": "cam5"
+    },
+    {
+        "rotate": true,
+        "heading": -6.778894,
+        "label": "Rob's Liqour San Andreas 1",
+        "coords": {
+            "y": -911.094,
+            "z": 14.401,
+            "x": -1224.874
+        },
+        "name": "cam6"
+    },
+    {
+        "rotate": true,
+        "heading": -137.1431,
+        "label": "Limited Ltd Ginger 1",
+        "coords": {
+            "y": -909.211,
+            "z": 21.49,
+            "x": -718.153
+        },
+        "name": "cam7"
+    },
+    {
+        "rotate": true,
+        "heading": -142.9191,
+        "label": "24/7 Supermarkt Innocence 1",
+        "coords": {
+            "y": -1342.441,
+            "z": 31.672,
+            "x": 23.885
+        },
+        "name": "cam8"
+    },
+    {
+        "rotate": true,
+        "heading": -137.302,
+        "label": "Rob's Liqour El Rancho 1",
+        "coords": {
+            "y": -978.712,
+            "z": 48.515,
+            "x": 1133.024
+        },
+        "name": "cam9"
+    },
+    {
+        "rotate": true,
+        "heading": -119.4468,
+        "label": "Limited Ltd West Mirror Drive 1",
+        "coords": {
+            "y": -320.389,
+            "z": 71.33,
+            "x": 1151.93
+        },
+        "name": "cam10"
+    },
+    {
+        "rotate": true,
+        "heading": 118.585,
+        "label": "24/7 Supermarkt Clinton 1",
+        "coords": {
+            "y": 328.915,
+            "z": 105.541,
+            "x": 383.402
+        },
+        "name": "cam11"
+    },
+    {
+        "rotate": true,
+        "heading": -91.481,
+        "label": "Limited Ltd Banham Canyon 1",
+        "coords": {
+            "y": 789.389,
+            "z": 140.436,
+            "x": -1832.057
+        },
+        "name": "cam12"
+    },
+    {
+        "rotate": true,
+        "heading": 32.92229,
+        "label": "Rob's Liqour Great Ocean 1",
+        "coords": {
+            "y": 387.067,
+            "z": 17.393,
+            "x": -2966.15
+        },
+        "name": "cam13"
+    },
+    {
+        "rotate": true,
+        "heading": -116.673,
+        "label": "24/7 Supermarkt Ineseno 1",
+        "coords": {
+            "y": 592.491,
+            "z": 9.808,
+            "x": -3046.749
+        },
+        "name": "cam14"
+    },
+    {
+        "rotate": true,
+        "heading": -135.2151,
+        "label": "24/7 Supermarkt Barbareno 1",
+        "coords": {
+            "y": 1010.408,
+            "z": 14.705,
+            "x": -3246.489
+        },
+        "name": "cam15"
+    },
+    {
+        "rotate": true,
+        "heading": -42.947,
+        "label": "24/7 Supermarkt Route 68 1",
+        "coords": {
+            "y": 2664.904,
+            "z": 44.056,
+            "x": 539.773
+        },
+        "name": "cam16"
+    },
+    {
+        "rotate": true,
+        "heading": 127.17,
+        "label": "Rob's Liqour Route 68 1",
+        "coords": {
+            "y": 2711.493,
+            "z": 40.432,
+            "x": 1169.855
+        },
+        "name": "cam17"
+    },
+    {
+        "rotate": true,
+        "heading": -80.242,
+        "label": "24/7 Supermarkt Senora 1",
+        "coords": {
+            "y": 3281.265,
+            "z": 57.541,
+            "x": 2673.579
+        },
+        "name": "cam18"
+    },
+    {
+        "rotate": true,
+        "heading": 163.065,
+        "label": "24/7 Supermarkt Alhambra 1",
+        "coords": {
+            "y": 3749.545,
+            "z": 34.143,
+            "x": 1966.24
+        },
+        "name": "cam19"
+    },
+    {
+        "rotate": true,
+        "heading": -160.089,
+        "label": "24/7 Supermarkt Senora 2",
+        "coords": {
+            "y": 6419.87,
+            "z": 37.262,
+            "x": 1729.522
+        },
+        "name": "cam20"
+    },
+    {
+        "rotate": true,
+        "heading": -146.1595,
+        "label": "Fleeca Bank Hawick 1",
+        "coords": {
+            "y": -281.439,
+            "z": 55.88,
+            "x": 309.341
+        },
+        "name": "cam21"
+    },
+    {
+        "rotate": true,
+        "heading": -143.9796,
+        "label": "Fleeca Bank Legion Square 1",
+        "coords": {
+            "y": -1043.044,
+            "z": 31.017,
+            "x": 144.871
+        },
+        "name": "cam22"
+    },
+    {
+        "rotate": true,
+        "heading": -143.8711,
+        "label": "Fleeca Bank Hawick 2",
+        "coords": {
+            "y": -52.506,
+            "z": 50.746,
+            "x": -355.7643
+        },
+        "name": "cam23"
+    },
+    {
+        "rotate": true,
+        "heading": -97.862,
+        "label": "Fleeca Bank Del Perro 1",
+        "coords": {
+            "y": -335.86,
+            "z": 39.515,
+            "x": -1214.226
+        },
+        "name": "cam24"
+    },
+    {
+        "rotate": true,
+        "heading": -34.69595,
+        "label": "Fleeca Bank Great Ocean 1",
+        "coords": {
+            "y": 478.983,
+            "z": 17.406,
+            "x": -2958.885
+        },
+        "name": "cam25"
+    },
+    {
+        "rotate": true,
+        "heading": 24.66,
+        "label": "Paleto Bank 1",
+        "coords": {
+            "y": 6467.668,
+            "z": 33.424,
+            "x": -102.939
+        },
+        "name": "cam26"
+    },
+    {
+        "rotate": true,
+        "heading": 260.0,
+        "label": "Del Vecchio Paleto Bay",
+        "coords": {
+            "y": 6323.45,
+            "z": 33.424,
+            "x": -163.75
+        },
+        "name": "cam27"
+    },
+    {
+        "rotate": true,
+        "heading": 32.0,
+        "label": "Don's Country Paleto Bay 1",
+        "coords": {
+            "y": 6634.4,
+            "z": 33.69,
+            "x": 166.42
+        },
+        "name": "cam28"
+    },
+    {
+        "rotate": true,
+        "heading": 5.78,
+        "label": "Don's Country Paleto Bay 3",
+        "coords": {
+            "y": 6640.89,
+            "z": 33.69,
+            "x": 169.54
+        },
+        "name": "cam29"
+    },
+    {
+        "rotate": true,
+        "heading": 5.78,
+        "label": "Vangelico Jewelery 1",
+        "coords": {
+            "y": -239.74,
+            "z": 40.33,
+            "x": -627.54
+        },
+        "name": "cam30"
+    },
+    {
+        "rotate": true,
+        "heading": -95.78,
+        "label": "Vangelico Jewelery 2",
+        "coords": {
+            "y": -229.51,
+            "z": 40.24,
+            "x": -627.51
+        },
+        "name": "cam31"
+    },
+    {
+        "rotate": true,
+        "heading": 165.78,
+        "label": "Vangelico Jewelery 3",
+        "coords": {
+            "y": -224.31,
+            "z": 40.23,
+            "x": -620.3
+        },
+        "name": "cam32"
+    },
+    {
+        "rotate": true,
+        "heading": 5.78,
+        "label": "Vangelico Jewelery 4",
+        "coords": {
+            "y": -236.3,
+            "z": 40.31,
+            "x": -622.57
+        },
+        "name": "cam33"
+    }
+]

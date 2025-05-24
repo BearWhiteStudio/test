@@ -1,0 +1,90 @@
+[
+    {
+        "heading": 60.0,
+        "prop": "prop_cctv_cam_03a",
+        "isCam": false,
+        "coords": {
+            "z": 32.18785247802734,
+            "y": -972.1734008789064,
+            "x": 93.90095520019533
+        },
+        "isRadar": true
+    },
+    {
+        "heading": 79.99998474121094,
+        "prop": "prop_cctv_cam_03a",
+        "isCam": false,
+        "coords": {
+            "z": 32.13321075439453,
+            "y": -1114.36865234375,
+            "x": 187.4658966064453
+        },
+        "isRadar": true
+    },
+    {
+        "heading": 0.0,
+        "prop": "prop_cctv_cam_05a",
+        "isCam": false,
+        "coords": {
+            "z": 37.18532485961914,
+            "y": -780.18212890625,
+            "x": 171.3588409423828
+        },
+        "isRadar": true
+    },
+    {
+        "heading": 60.0,
+        "prop": "prop_cctv_pole_04",
+        "isCam": false,
+        "coords": {
+            "z": 27.94382019042968,
+            "y": -627.7642211914063,
+            "x": 358.7879028320313
+        },
+        "isRadar": true
+    },
+    {
+        "heading": 255.0000152587891,
+        "prop": "prop_cctv_cam_03a",
+        "isCam": false,
+        "coords": {
+            "z": 31.9041763305664,
+            "y": -875.3449096679688,
+            "x": 303.4375610351563
+        },
+        "isRadar": true
+    },
+    {
+        "heading": 235.0000152587891,
+        "prop": "prop_cctv_pole_04",
+        "isCam": false,
+        "coords": {
+            "z": 76.00223083496094,
+            "y": 860.0960693359375,
+            "x": 1532.3291015625
+        },
+        "isRadar": true
+    },
+    {
+        "heading": 69.99999237060547,
+        "prop": "prop_cctv_pole_04",
+        "isCam": false,
+        "coords": {
+            "z": 51.46887130737305,
+            "y": 3775.393310546875,
+            "x": 2894.475830078125
+        },
+        "isRadar": true
+    },
+    {
+        "heading": 79.99998474121094,
+        "prop": "prop_cctv_pole_04",
+        "isCam": false,
+        "coords": {
+            "z": 16.49191017150879,
+            "y": 2710.8349609375,
+            "x": -2661.539306640625
+        },
+        "isRadar": true
+    }
+]

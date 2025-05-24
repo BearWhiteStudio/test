@@ -1,0 +1,85 @@
+[
+    {
+        "speedtrap": false,
+        "heading": 195.0,
+        "label": "Legion Square 2",
+        "coords": {
+            "x": 93.90095520019533,
+            "y": -972.1734008789064,
+            "z": 32.18785247802734
+        },
+        "speedlimit": 120,
+        "name": "radar2"
+    },
+    {
+        "speedtrap": false,
+        "heading": 180.0,
+        "label": "Legion Square 3",
+        "coords": {
+            "x": 171.3588409423828,
+            "y": -780.18212890625,
+            "z": 37.18532485961914
+        },
+        "speedlimit": 120,
+        "name": "radar3"
+    },
+    {
+        "speedtrap": false,
+        "heading": 150.0,
+        "label": "Legion Square 4",
+        "coords": {
+            "x": 358.7879028320313,
+            "y": -627.7642211914063,
+            "z": 27.94382019042968
+        },
+        "speedlimit": 120,
+        "name": "radar4"
+    },
+    {
+        "speedtrap": false,
+        "heading": 30.0,
+        "label": "Legion Square 1",
+        "coords": {
+            "x": 303.4375610351563,
+            "y": -875.3449096679688,
+            "z": 31.9041763305664
+        },
+        "speedlimit": 120,
+        "name": "radar4"
+    },
+    {
+        "speedtrap": false,
+        "heading": -35.0,
+        "label": "Highway Radar 1",
+        "coords": {
+            "x": 1532.3291015625,
+            "y": 860.0960693359375,
+            "z": 76.00223083496094
+        },
+        "speedlimit": 120,
+        "name": "radar5"
+    },
+    {
+        "speedtrap": false,
+        "heading": 160.0,
+        "label": "Highway Radar 2",
+        "coords": {
+            "x": 2894.475830078125,
+            "y": 3775.393310546875,
+            "z": 51.46887130737305
+        },
+        "speedlimit": 120,
+        "name": "radar6"
+    },
+    {
+        "coords": {
+            "x": -2661.539306640625,
+            "y": 2710.8349609375,
+            "z": 16.49191017150879
+        },
+        "heading": 170.0,
+        "label": "Highway Radar 3",
+        "speedlimit": 120,
+        "name": "radar7"
+    }
+]
